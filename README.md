@@ -1,1 +1,1 @@
-# ios_curl_openssl-
+# iOS용 Curl 및 openssl 빌드
