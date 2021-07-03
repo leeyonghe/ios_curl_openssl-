@@ -1,18 +1,11 @@
 #!/bin/bash
 
-# This script builds openssl+libcurl libraries for MacOS, iOS and tvOS
-#
-# Jason Cox, @jasonacox
-#   https://github.com/jasonacox/Build-OpenSSL-cURL
-#
-
-################################################
-# EDIT this section to Select Default Versions #
-################################################
-
 # https://ftp.openssl.org/source/old/1.0.2/openssl-1.0.2.tar.gz
 # https://curl.se/download/curl-7.30.0.tar.gz
 # https://github.com/nghttp2/nghttp2/releases/download/v1.39.0/nghttp2-1.39.0.tar.gz
+
+
+################################################
 
 OPENSSL="1.0.2"	# https://www.openssl.org/source/
 LIBCURL="7.30.0"	# https://curl.haxx.se/download.html
